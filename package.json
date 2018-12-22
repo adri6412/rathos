@@ -1,6 +1,6 @@
 {
-  "name": "Il Castello di Rathos",
-  "description": "Rathos",
-  "version": "1.0"
-  "main": "index.html",
+	"name": "Il Castello di Rathos",
+	"description": "Rathos",
+	"version": "1.0",
+	"main": "index.html"
 }
