@@ -1,0 +1,64 @@
+Skill 1 Attacco: Damage Formula: a.atk * 4 - b.def * 2
+Skill 3 Doppio Attacco: Damage Formula: a.atk * 4 - b.def * 2
+Skill 4 Attacco Multiplo: Damage Formula: a.atk * 4 - b.def * 2
+Skill 5 Triplo Attacco: Damage Formula: a.atk * 4 - b.def * 2
+Skill 8 Respiro Infuocato: Damage Formula: a.atk
+Skill 9 Respiro di Ghiaccio: Damage Formula: a.atk
+Skill 10 Shock: Damage Formula: a.atk
+Skill 21 Corposcontro: Damage Formula: a.atk * 4 - b.def * 2
+Skill 23 Vampiro: Damage Formula: a.atk * 2 - b.def
+Skill 24 Meditazione: Damage Formula: b.mhp / 4
+Skill 26 Guarigione: Damage Formula: 250 + a.mat
+Skill 27 Guarigione II: Damage Formula: 1000 + a.mat * 2
+Skill 28 Guarigione III: Damage Formula: 4000 + a.mat * 4
+Skill 29 Ricovero: Damage Formula: 250 + a.mat
+Skill 30 Ricovero II: Damage Formula: 1000 + a.mat * 2
+Skill 33 Resurrezione: Damage Formula: b.mhp / 10
+Skill 34 Resurrezione II: Damage Formula: b.mhp / 2
+Skill 49 Assorbi Vita: Damage Formula: 200 + a.mat * 4 - b.mdf * 2
+Skill 50 Assorbi Mana: Damage Formula: 20 + a.mat - b.mdf * 0.5
+Skill 51 Fuoco: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 52 Fuoco II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 53 Fiamma: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 54 Fiamma II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 55 Ghiaccio: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 56 Ghiaccio II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 57 Bufera: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 58 Bufera II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 59 Tuono: Damage Formula: 200 + a.mat * 2 - b.mdf * 2
+Skill 60 Tuono II: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 61 Scintille: Damage Formula: 200 + a.mat * 2 - b.mdf * 2
+Skill 62 Scintille II: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 63 Acqua: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 64 Onda: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 65 Pietra: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 66 Terremoto: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 67 Vento: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 68 Tornado: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 69 Santa: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 70 Luce Stellare: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 71 Ombra: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 72 Oscurità: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 73 Scoppio: Damage Formula: 300 + a.mat * 2
+Skill 74 Nucleare: Damage Formula: 300 + a.mat * 2
+Skill 80 Attacco Potente: Damage Formula: a.atk * 5 - b.def * 2
+Skill 81 Spaccata: Damage Formula: a.atk * 2 - b.def * 2
+Skill 83 Danza del Berserker: Damage Formula: a.atk * 5 - b.def * 2
+Skill 84 Furia del Gigante: Damage Formula: a.atk * 12 - b.def * 6
+Skill 85 Tackle: Damage Formula: a.atk * 4 + a.def * 2 - b.def * 2
+Skill 88 Calcio senza Ombra: Damage Formula: a.atk * 5
+Skill 89 Danza di Artigli: Damage Formula: a.atk * 12
+Skill 94 Tempesta Zero: Damage Formula: a.atk * 5 - b.def * 2
+Skill 95 Lama Aurea: Damage Formula: a.atk * 4 + a.mat * 3 - b.def - b.mdf
+Skill 99 Lama Radiante: Damage Formula: a.atk * 5 + a.mat * 5 - b.def - b.mdf
+Skill 100 Yoroidoshi: Damage Formula: a.atk * 4
+Skill 103 Tsubamekaeshi: Damage Formula: a.atk * 3 - b.def * 2
+Skill 104 Ouka Mugen jin: Damage Formula: a.atk * 4 - b.def * 2
+Skill 105 Spezza Arma: Damage Formula: a.atk * 4 - b.def * 2
+Skill 106 Spacca Armatura: Damage Formula: a.atk * 4 - b.def * 2
+Skill 108 Tiro Triplo: Damage Formula: a.atk * 4 + a.agi * 2 - b.def * 2
+Skill 109 Mille Frecce: Damage Formula: a.atk * 3 + a.agi * 2 - b.def * 2
+Skill 113 Taglio dell'Assassino: Damage Formula: a.atk * 3 + a.luk * 4 - b.def * 2
+Skill 114 Taglio Valoroso: Damage Formula: a.atk * 2 + a.luk * 4 - b.def * 2
+Skill 117 Volere Divino: Damage Formula: a.mat * 5 - b.mdf
+Skill 122 Torrente Magico: Damage Formula: b.mmp * 0.5
